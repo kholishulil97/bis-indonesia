@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0688F8</color>
+    <color name="colorPrimaryDark">#0673D3</color>
+    <color name="colorAccent">#59B7F5</color>
+    <color name="whiteBodyColor">#FCFCFC</color>
+
+    <color name="xd_biru_tua">#0688F8</color>
+    <color name="xd_biru_muda">#59B7F5</color>
+</resources>
